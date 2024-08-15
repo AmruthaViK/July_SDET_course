@@ -1,5 +1,5 @@
 package Pkg1;
-
+// GIT related
 public class Class1 // PILLAR 1 - CLASS CREATION
 { 
 	int a=8; // a is a variable which stores integer value	
